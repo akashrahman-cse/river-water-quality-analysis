@@ -19,7 +19,7 @@ Statistical analysis of oxygen and nitrate concentrations (mg/L) in a river with
 - Oxygen shows no spring–autumn difference (p = 0.065) and only one significant section difference (A1 vs. A4).
 
 ## How to Run
-1. `pip install -r requirements.txt`
+1. Install the packages: `pip install pandas numpy scipy statsmodels scikit-posthocs matplotlib seaborn`
 2. Place `waterquality.csv` in the project folder (the data set is not included).
 3. Run all cells in `analysis_main.ipynb`.
 
