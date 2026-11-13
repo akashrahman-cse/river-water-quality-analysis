@@ -21,7 +21,7 @@ Statistical analysis of oxygen and nitrate concentrations (mg/L) in a river with
 ## How to Run
 1. `pip install -r requirements.txt`
 2. Place `waterquality.csv` in the project folder (the data set is not included).
-3. Run all cells in `analysis.ipynb`.
+3. Run all cells in `analysis_main.ipynb`.
 
 ## Author
 Md Akash Rahman · akashrahman.cse@gmail.com
